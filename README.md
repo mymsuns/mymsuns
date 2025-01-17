@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center"
+  
+![](https://komarev.com/ghpvc/?username=mymsuns&color=BAEBD4&label=⊹)
 
-<!--
-**mymsuns/mymsuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  the⠀furina⠀irl⠀ever⠀ꔫ
+  <h4 align="center">
+  <img src="https://github.com/user-attachments/assets/371a3a93-6a12-4d35-9b86-e48937b2b2f4"/>
+</p>
+<p align="center"> feel⠀free⠀to⠀c+h⠀!</p>
+<p align="center"> mostly⠀afk⠀𓏵⠀w2i
