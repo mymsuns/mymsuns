@@ -12,7 +12,7 @@
 
 <p align="center"
   
-[strawpage](https://suamym.straw.page)
+[strawpage](https://suamym.straw.page)⠀⠀[twt](https://x.com/mymsuns)
 
 </p>
 <br>
