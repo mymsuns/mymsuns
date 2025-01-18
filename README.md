@@ -1,6 +1,6 @@
 <p align="center"
   
-![](https://komarev.com/ghpvc/?username=mymsuns&color=BAEBD4&label=⟡)
+![](https://komarev.com/ghpvc/?username=mymsuns&color=BAEBD4&label=✦)
 
 <p align="center">
   the⠀furina⠀irl⠀ever⠀ꔫ
