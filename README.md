@@ -5,7 +5,7 @@
 <p align="center">
   the⠀furina⠀irl⠀ever⠀ꔫ
   <h4 align="center">
-  <img src="https://github.com/user-attachments/assets/e8792337-1d96-4bb4-b38e-f6d9342a520a"/>
+  <img src="https://github.com/user-attachments/assets/3af186b1-bdba-4bfb-852f-2eec414c8dc4"/>
 </p>
 <p align="center"> feel⠀free⠀to⠀c+h⠀!</p>
 <p align="center"> mostly⠀afk⠀𓏵⠀w2i </p>
