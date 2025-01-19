@@ -5,10 +5,10 @@
 <p align="center">
   the⠀furina⠀irl⠀ever⠀ꔫ
   <h4 align="center">
-  <img src="https://github.com/user-attachments/assets/3af186b1-bdba-4bfb-852f-2eec414c8dc4"width="450" height="450"/>
+  <img src="https://github.com/user-attachments/assets/3af186b1-bdba-4bfb-852f-2eec414c8dc4"width="400" height="400"/>
 </p>
 <p align="center"> feel⠀free⠀2⠀int ‎╱ ‎c+h⠀!</p>
-<p align="center"> mostly⠀afk⠀𓏵⠀w2i </p>
+<p align="center"> mostly⠀afk⠀⠀𓏵⠀⠀w2i </p>
 
 <p align="center"
   
