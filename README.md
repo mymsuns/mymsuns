@@ -1,11 +1,11 @@
 <p align="center"
   
-![](https://komarev.com/ghpvc/?username=mymsuns&color=BAEBD4&label=✦&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=mymsuns&color=4E68BA&label=✦&abbreviated=true)
 
 <p align="center">
   the⠀furina⠀irl⠀ever⠀ꔫ
   <h4 align="center">
-  <img src="https://github.com/user-attachments/assets/3af186b1-bdba-4bfb-852f-2eec414c8dc4"/>
+  <img src="https://github.com/user-attachments/assets/d95e9d75-d6a3-4400-ae3d-d2372a4dd857"/>
 </p>
 <p align="center"> feel⠀free⠀2⠀int ‎╱ ‎c+h⠀!</p>
 <p align="center"> mostly⠀afk⠀⠀𓏵⠀⠀w2i </p>
