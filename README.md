@@ -7,7 +7,7 @@
   <h4 align="center">
   <img src="https://github.com/user-attachments/assets/d95e9d75-d6a3-4400-ae3d-d2372a4dd857"width="400" length="400"/>
 </p>
-<p align="center"> feel⠀free⠀2⠀int ‎╱ ‎c+h⠀!</p>
+<p align="center"> int ‎╱ ‎c+h⠀freely⠀!</p>
 <p align="center"> mostly⠀afk⠀⠀𓏵⠀⠀w2i </p>
 
 <p align="center"
