@@ -12,7 +12,7 @@
 
 <p align="center"
   
-[strawpage](https://suamym.straw.page)⠀⠀[ata](https://mymsuns.atabook.org)⠀⠀[twt](https://x.com/mymsuns)
+[strawpage](https://suamym.straw.page)⠀⠀[ata](https://mymsuns.atabook.org)⠀⠀[twt](https://x.com/mymsuns)⠀⠀[tt](https://www.tiktok.com/@mymsuns?_r=1&_t=ZS-95HUUZBePwI)
 
 </p>
 <br>
